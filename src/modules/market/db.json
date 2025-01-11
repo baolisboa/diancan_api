@@ -1,0 +1,19 @@
+{
+    "market_coupon_info": [
+        {
+          "id": 1,
+          "createTime": "2024-8-1 18:40:53.96",
+          "updateTime": "2024-8-3 05:08:30",
+          "title": "炎炎夏日，畅享茶香",
+          "description": "夏季喝茶优惠券大放送",
+          "type": 0,
+          "amount": 5.0,
+          "num": 100,
+          "receivedNum": 6,
+          "startTime": "2024-8-1 00:00:00",
+          "endTime": "2024-9-30 00:00:00",
+          "status": 1,
+          "condition": {"fullAmount": 20}
+        }
+      ]
+}

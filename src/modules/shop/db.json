@@ -1,0 +1,38 @@
+{
+    "shop_info":[
+        {
+          "id": 1,
+          "createTime": "2024-7-30 10:41:13.809",
+          "updateTime": "2024-7-30 11:03:03.623",
+          "name": "集美万达店",
+          "address": "万达广场(集美店) 银江路137号",
+          "contact": "神仙",
+          "phone": "17605043035",
+          "lat": 24.57335662841797,
+          "lng": 118.09265899658203,
+          "startBusinessHours": "10:00",
+          "endBusinessHours": "22:00",
+          "status": 1,
+          "province": "福建省",
+          "city": "厦门市",
+          "district": "集美区"
+        },
+        {
+          "id": 2,
+          "createTime": "2024-7-30 15:18:13.407",
+          "updateTime": "2024-7-30 15:18:13.407",
+          "name": "sm城市广场店",
+          "address": "SM城市广场(厦门湖里店) 嘉禾路468号",
+          "contact": "测试",
+          "phone": "13255022028",
+          "lat": 24.5008487701416,
+          "lng": 118.1260986328125,
+          "startBusinessHours": "10:00",
+          "endBusinessHours": "22:00",
+          "status": 1,
+          "province": "福建省",
+          "city": "厦门市",
+          "district": "湖里区"
+        }
+      ]
+}

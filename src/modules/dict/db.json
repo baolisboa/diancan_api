@@ -1,0 +1,517 @@
+{
+    "dict_info": [
+      {
+        "id": 1,
+        "typeId": 1,
+        "name": "安卓",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 2,
+        "typeId": 1,
+        "name": "IOS",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 3,
+        "typeId": 2,
+        "name": "崩溃与错误",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 4,
+        "typeId": 2,
+        "name": "支付问题",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 5,
+        "typeId": 2,
+        "name": "体验不佳",
+        "value": "2",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 6,
+        "typeId": 2,
+        "name": "功能缺失",
+        "value": "3",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 7,
+        "typeId": 2,
+        "name": "其他",
+        "value": "4",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 8,
+        "typeId": 3,
+        "name": "崩溃与错误",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 9,
+        "typeId": 3,
+        "name": "支付问题",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 10,
+        "typeId": 3,
+        "name": "体验不佳",
+        "value": "2",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 11,
+        "typeId": 3,
+        "name": "功能缺失",
+        "value": "3",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 12,
+        "typeId": 3,
+        "name": "其他",
+        "value": "-1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 31,
+        "typeId": 21,
+        "name": "不想要了",
+        "value": "",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 32,
+        "typeId": 21,
+        "name": "商品错选/多选",
+        "value": "",
+        "orderNum": 2,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 33,
+        "typeId": 21,
+        "name": "商品无货",
+        "value": "",
+        "orderNum": 3,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 34,
+        "typeId": 21,
+        "name": "地址信息填写错误",
+        "value": "",
+        "orderNum": 4,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 35,
+        "typeId": 21,
+        "name": "商品降价",
+        "value": "",
+        "orderNum": 5,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 36,
+        "typeId": 21,
+        "name": "没用/少用/错用优惠",
+        "value": "",
+        "orderNum": 6,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 37,
+        "typeId": 21,
+        "name": "价格高于其他平台",
+        "value": "",
+        "orderNum": 7,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 38,
+        "typeId": 22,
+        "name": "安卓",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 39,
+        "typeId": 22,
+        "name": "IOS",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 40,
+        "typeId": 23,
+        "name": "崩溃与错误",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 41,
+        "typeId": 23,
+        "name": "支付问题",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 42,
+        "typeId": 23,
+        "name": "体验不佳",
+        "value": "2",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 43,
+        "typeId": 23,
+        "name": "功能缺失",
+        "value": "3",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 44,
+        "typeId": 23,
+        "name": "其他",
+        "value": "4",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 45,
+        "typeId": 24,
+        "name": "崩溃与错误",
+        "value": "0",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 46,
+        "typeId": 24,
+        "name": "支付问题",
+        "value": "1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 47,
+        "typeId": 24,
+        "name": "体验不佳",
+        "value": "2",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 48,
+        "typeId": 24,
+        "name": "功能缺失",
+        "value": "3",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 49,
+        "typeId": 24,
+        "name": "其他",
+        "value": "-1",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 50,
+        "typeId": 25,
+        "name": "顺丰速运",
+        "value": "sf",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 51,
+        "typeId": 25,
+        "name": "申通快递",
+        "value": "sto",
+        "orderNum": 2,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 52,
+        "typeId": 25,
+        "name": "EMS",
+        "value": "EMS",
+        "orderNum": 3,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 53,
+        "typeId": 25,
+        "name": "韵达快递",
+        "value": "yundaex",
+        "orderNum": 4,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 54,
+        "typeId": 25,
+        "name": "百世快递",
+        "value": "best",
+        "orderNum": 5,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 55,
+        "typeId": 25,
+        "name": "圆通速递",
+        "value": "yto",
+        "orderNum": 6,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 56,
+        "typeId": 25,
+        "name": "中通快递",
+        "value": "zto",
+        "orderNum": 7,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 57,
+        "typeId": 26,
+        "name": "无理由",
+        "value": "",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 58,
+        "typeId": 26,
+        "name": "商品与页面描述不符",
+        "value": "",
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 59,
+        "typeId": 26,
+        "name": "少发/发错货/未收到货",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 60,
+        "typeId": 26,
+        "name": "价格变化",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 61,
+        "typeId": 26,
+        "name": "商品破损/包装问题",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 62,
+        "typeId": 26,
+        "name": "商品质量/故障",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 63,
+        "typeId": 27,
+        "name": "店长推荐",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 64,
+        "typeId": 27,
+        "name": "夏季新品",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 65,
+        "typeId": 27,
+        "name": "进店必喝",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 66,
+        "typeId": 27,
+        "name": "有点酸",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      },
+      {
+        "id": 67,
+        "typeId": 27,
+        "name": "偏甜",
+        "value": null,
+        "orderNum": 1,
+        "remark": null,
+        "parentId": null
+      }
+    ],
+    "dict_type": [
+      {
+        "id": 1,
+        "createTime": "2024-7-26 06:12:48.881436",
+        "updateTime": "2024-7-26 06:12:48.881436",
+        "name": "升级类型",
+        "key": "upgradeType"
+      },
+      {
+        "id": 2,
+        "createTime": "2024-7-26 06:12:48.916183",
+        "updateTime": "2024-7-26 06:12:48.916183",
+        "name": "投诉类型",
+        "key": "complainType"
+      },
+      {
+        "id": 3,
+        "createTime": "2024-7-26 06:12:48.986816",
+        "updateTime": "2024-7-26 06:12:48.986816",
+        "name": "反馈类型",
+        "key": "feedbackType"
+      },
+      {
+        "id": 21,
+        "createTime": "2024-7-26 06:12:49.664241",
+        "updateTime": "2024-7-26 06:12:49.664241",
+        "name": "订单取消原因",
+        "key": "orderCancelReason"
+      },
+      {
+        "id": 22,
+        "createTime": "2024-7-26 06:12:49.682819",
+        "updateTime": "2024-7-26 06:12:49.682819",
+        "name": "升级类型",
+        "key": "upgradeType"
+      },
+      {
+        "id": 23,
+        "createTime": "2024-7-26 06:12:49.701026",
+        "updateTime": "2024-7-26 06:12:49.701026",
+        "name": "投诉类型",
+        "key": "complainType"
+      },
+      {
+        "id": 24,
+        "createTime": "2024-7-26 06:12:49.717465",
+        "updateTime": "2024-7-26 06:12:49.717465",
+        "name": "反馈类型",
+        "key": "feedbackType"
+      },
+      {
+        "id": 25,
+        "createTime": "2024-7-26 06:12:49.74121",
+        "updateTime": "2024-7-26 06:12:49.74121",
+        "name": "物流公司",
+        "key": "logisticsCompany"
+      },
+      {
+        "id": 26,
+        "createTime": "2024-7-26 06:12:49.762155",
+        "updateTime": "2024-7-26 06:12:49.762155",
+        "name": "订单退款原因",
+        "key": "orderRefundReason"
+      },
+      {
+        "id": 27,
+        "createTime": "2024-7-26 14:34:04.049",
+        "updateTime": "2024-7-26 14:34:04.049",
+        "name": "商品推荐标签",
+        "key": "goodsRecommendTags"
+      }
+    ]
+}

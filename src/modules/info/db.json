@@ -1,0 +1,52 @@
+{
+    "info_banner": [
+        {
+          "id": 1,
+          "createTime": "2024-7-30 20:29:47.974",
+          "updateTime": "2024-7-31 15:31:44.225",
+          "description": "传承古法，纯手作甜品的魅力\n滋养身心，尽享四季美好",
+          "path": "/pages/index/goods",
+          "pic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2Fa71571c275fb42309e666cb3a8a367e3_4.png",
+          "sortNum": 1,
+          "status": 1,
+          "title": "「经典」奶茶",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "createTime": "2024-7-31 15:42:10.123",
+          "updateTime": "2024-7-31 15:43:17.747",
+          "description": "燃情仙草，滑嫩口感，夏日解暑神器\n潮流甜品新宠，尝鲜吧！",
+          "path": "/pages/index/goods",
+          "pic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2Ff42cd3a6db12418ead63efe44d62f6ae_2.png",
+          "sortNum": 0,
+          "status": 1,
+          "title": "「经典」烧仙草",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "createTime": "2024-7-31 15:44:17.977",
+          "updateTime": "2024-7-31 15:44:57.046",
+          "description": "潮酷四果汤，鲜果混搭风，VIBE满满\n解暑又时尚，尝鲜就是现在",
+          "path": "/pages/index/goods",
+          "pic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F07612098980f422989e1068beb906403_1.png",
+          "sortNum": 2,
+          "status": 1,
+          "title": "「经典」四果冰",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "createTime": "2024-7-31 18:53:21.007",
+          "updateTime": "2024-7-31 18:54:36.933",
+          "description": "",
+          "path": null,
+          "pic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F03893ee0d38f4d199bffd2e629f1bada_b2.jpg",
+          "sortNum": 0,
+          "status": 1,
+          "title": "",
+          "type": 2
+        }
+      ]
+}

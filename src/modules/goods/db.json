@@ -1,0 +1,649 @@
+{
+    "goods_type": [
+        {
+            "id": 1,
+            "createTime": "2024-7-26 14:23:57.924",
+            "updateTime": "2024-7-26 17:17:59.97",
+            "name": "天天9.9",
+            "parentId": null,
+            "sortNum": 9,
+            "pic": null,
+            "status": 1
+        },
+        {
+            "id": 2,
+            "createTime": "2024-7-26 16:34:18.798",
+            "updateTime": "2024-7-26 17:18:04.942",
+            "name": "热销",
+            "parentId": null,
+            "sortNum": 8,
+            "pic": null,
+            "status": 1
+        },
+        {
+            "id": 3,
+            "createTime": "2024-7-26 16:43:11.658",
+            "updateTime": "2024-7-26 17:18:08.768",
+            "name": "下午茶套餐",
+            "parentId": null,
+            "sortNum": 7,
+            "pic": null,
+            "status": 1
+        },
+        {
+            "id": 4,
+            "createTime": "2024-7-26 16:52:03.143",
+            "updateTime": "2024-7-26 17:18:12.43",
+            "name": "开心加料",
+            "parentId": null,
+            "sortNum": 6,
+            "pic": null,
+            "status": 1
+        }
+    ],
+    "goods_search_keyword": [
+        {
+            "id": 1,
+            "createTime": "2024-7-31 19:02:28.844",
+            "updateTime": "2024-7-31 19:47:50.623",
+            "name": "四果冰",
+            "sortNum": 1
+        },
+        {
+            "id": 2,
+            "createTime": "2024-7-31 19:02:34.623",
+            "updateTime": "2024-7-31 19:02:34.623",
+            "name": "奶茶",
+            "sortNum": 2
+        },
+        {
+            "id": 3,
+            "createTime": "2024-7-31 19:02:43.438",
+            "updateTime": "2024-7-31 19:02:43.438",
+            "name": "烧仙草",
+            "sortNum": 3
+        }
+    ],
+    "goods_info": [
+        {
+            "id": 1,
+            "createTime": "2024-7-26 14:38:41.416",
+            "updateTime": "2024-7-26 17:26:08.253",
+            "typeId": 1,
+            "title": "烧仙草（冲量）",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F3dc41a73d3944522828ed9ff8feb138b_2.png",
+            "price": 9.899999618530274,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 1,
+            "desc": "口感Q弹，入口即化",
+            "tags": [
+                63,
+                64
+            ],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "大杯",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "createTime": "2024-7-26 16:37:51.787",
+            "updateTime": "2024-7-26 17:26:24.347",
+            "typeId": 2,
+            "title": "招牌奶茶",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F46c7f02c1b3c469e955b8266661c73a3_4.png",
+            "price": 16.899999618530275,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 2,
+            "desc": "奶茶回归，茶香升级",
+            "tags": [
+                65
+            ],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "大杯",
+                            "price": 0
+                        },
+                        {
+                            "label": "超大杯",
+                            "price": 3
+                        },
+                        {
+                            "label": "霸王杯",
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "createTime": "2024-7-26 16:42:17.353",
+            "updateTime": "2024-7-26 17:26:28.696",
+            "typeId": 2,
+            "title": "招牌四果冰",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F1bafc9d6a3524269ad7865f0706599aa_1.png",
+            "price": 13.899999618530274,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": "清热解暑，滋润养生",
+            "tags": [
+                64
+            ],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "大杯",
+                            "price": 0
+                        },
+                        {
+                            "label": "超大杯",
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "createTime": "2024-7-26 16:43:36.977",
+            "updateTime": "2024-7-26 16:45:45.174",
+            "typeId": 3,
+            "title": "双份四果冰",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F7430e0b938244dd1b4f58dc6cfd461f3_1.png",
+            "price": 20.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "双份大杯",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "createTime": "2024-7-26 16:43:48.474",
+            "updateTime": "2024-7-26 16:45:52.449",
+            "typeId": 3,
+            "title": "双份奶茶",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F593e885907b04f5699ae39c0c41f7ff7_4.png",
+            "price": 22.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "双份大杯",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "createTime": "2024-7-26 16:52:45.269",
+            "updateTime": "2024-7-26 16:53:42.763",
+            "typeId": 4,
+            "title": "菠萝",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2Fc9d9a987bb514e5284477c3da20dd546_3.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": "酸酸甜甜",
+            "tags": [],
+            "specs": []
+        },
+        {
+            "id": 7,
+            "createTime": "2024-7-26 16:53:07.468",
+            "updateTime": "2024-7-26 16:53:45.64",
+            "typeId": 4,
+            "title": "绿豆",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F569adc78fffc48de975dea54d3d35a44_5.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": []
+        },
+        {
+            "id": 8,
+            "createTime": "2024-7-26 16:54:05.872",
+            "updateTime": "2024-7-26 16:54:05.872",
+            "typeId": 4,
+            "title": "西瓜",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F6f538728b6784a0180aa963e8280a157_7.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 9,
+            "createTime": "2024-7-26 16:54:21.787",
+            "updateTime": "2024-7-26 16:54:21.787",
+            "typeId": 4,
+            "title": "薏米",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F9204c419016e4a248f9ea21ae6f7cbb4_9.png",
+            "price": 3.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 10,
+            "createTime": "2024-7-26 16:54:55.705",
+            "updateTime": "2024-7-26 16:54:55.705",
+            "typeId": 4,
+            "title": "银耳",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2Fa319bc0074d240c2b8b00e54a1aff455_13.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 11,
+            "createTime": "2024-7-26 16:55:05.907",
+            "updateTime": "2024-7-26 16:55:05.907",
+            "typeId": 4,
+            "title": "豆花",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F88bc85d3a51a4cdd9ea23679d90ec5f7_10.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 12,
+            "createTime": "2024-7-26 16:55:20.917",
+            "updateTime": "2024-7-26 16:55:20.917",
+            "typeId": 4,
+            "title": "杨梅",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F3e858b6f417a44439c1d2512e46055e4_6.png",
+            "price": 3.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 13,
+            "createTime": "2024-7-26 16:55:30.357",
+            "updateTime": "2024-7-26 16:55:30.357",
+            "typeId": 4,
+            "title": "红豆",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F451d8bb93a3f45828565a6a0239e2aef_8.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 14,
+            "createTime": "2024-7-26 16:55:48.455",
+            "updateTime": "2024-7-26 16:55:48.455",
+            "typeId": 4,
+            "title": "芋圆",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2Ff8705bebc8fc4ee7806fbc882f76adbc_12.png",
+            "price": 2.0,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [],
+            "specs": null
+        },
+        {
+            "id": 15,
+            "createTime": "2024-7-26 17:01:40.019",
+            "updateTime": "2024-7-26 17:26:32.079",
+            "typeId": 2,
+            "title": "招牌烧仙草",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F305c9d53244c4fd8876475f43ff2a689_2.png",
+            "price": 16.899999618530275,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": "一品烧仙草，一品甜如蜜",
+            "tags": [
+                63,
+                67
+            ],
+            "specs": [
+                {
+                    "label": "规格",
+                    "options": [
+                        {
+                            "label": "大杯",
+                            "price": 0
+                        },
+                        {
+                            "label": "超大杯",
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "label": "温度",
+                    "options": [
+                        {
+                            "label": "少冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "正常冰",
+                            "price": 0
+                        },
+                        {
+                            "label": "去冰",
+                            "price": 0
+                        }
+                    ]
+                },
+                {
+                    "label": "甜度",
+                    "options": [
+                        {
+                            "label": "7分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "5分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "3分糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "不另外加糖",
+                            "price": 0
+                        },
+                        {
+                            "label": "全糖",
+                            "price": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "createTime": "2024-8-1 20:12:23.015",
+            "updateTime": "2024-8-1 20:12:23.015",
+            "typeId": 1,
+            "title": "测试",
+            "mainPic": "https://cool-service.oss-cn-shanghai.aliyuncs.com/app%2Fbase%2F622d50649e3041ee8a3a99a11a8ee509_5.png",
+            "price": 0.009999999776482582,
+            "sold": 0,
+            "status": 1,
+            "sortNum": 0,
+            "desc": null,
+            "tags": [
+                64
+            ],
+            "specs": null
+        }
+    ]
+}
