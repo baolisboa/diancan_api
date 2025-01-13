@@ -7,7 +7,7 @@ import Redis from 'ioredis';
 const redis = {
   host: '127.0.0.1',
   port: 6379,
-  password: '',
+  password: '2c0h2i5',
   db: 0,
 };
 const pubClient = new Redis(redis);
@@ -27,9 +27,9 @@ export default {
         type: 'mysql',
         host: '127.0.0.1',
         port: 3306,
-        username: 'root',
-        password: '123456',
-        database: 'cool',
+        username: 'diancan',
+        password: 'EeHfrzD5Lte7dtNn',
+        database: 'diancan',
         // 自动建表 注意：线上部署的时候不要使用，有可能导致数据丢失
         synchronize: false,
         // 打印日志

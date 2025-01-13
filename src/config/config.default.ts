@@ -6,7 +6,7 @@ import { MidwayConfig } from '@midwayjs/core';
 
 export default {
   // use for cookie sign key, should change to your own and keep security
-  keys: 'cool-admin-keys-xxxxxx',
+  keys: 'cool-admin-keys-hg6dyh7bk8mjfol',
   koa: {
     port: 8001,
   },
@@ -54,7 +54,7 @@ export default {
   cool: {
     redis: {
       host: '127.0.0.1',
-      password: '',
+      password: '2c0h2i5',
       port: 6379,
       db: 10,
     },
